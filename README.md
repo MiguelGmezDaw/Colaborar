@@ -1,3 +1,3 @@
 # Colaborar
 
-Version de Miguel Gomez
+Version de Miguel Gomez G
